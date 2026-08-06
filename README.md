@@ -118,4 +118,4 @@ terraform destroy
 
 ## Write-up
 
-LinkedIn post: thought process, tag **HUG Lagos** and **HUG Ibadan** (add link after posting).
+[LinkedIn post](https://www.linkedin.com/posts/dr-bamise-omolaso_huglagos-hugibadan-cloudengineer-ugcPost-7491068186705047553-A-DF) on the two-tier design, modules, and least-privilege networking (tags HUG Lagos and HUG Ibadan).
