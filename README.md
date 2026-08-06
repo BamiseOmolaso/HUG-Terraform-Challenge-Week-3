@@ -94,12 +94,21 @@ Avoid leaving SSH open to `0.0.0.0/0`; prefer keeping `/32` and re-applying when
 
 ## Screenshots
 
-Add under `screenshots/` after a successful apply:
+### VPC / virtual private network
 
-- VPC (subnets, IGW, NAT)
-- EC2 running
-- RDS running
-- Webpage
+![VPC](screenshots/vpc.png)
+
+### EC2 instance running
+
+![EC2 console](screenshots/ec2-console.png)
+
+### RDS database instance running
+
+![RDS console](screenshots/rds.png)
+
+### Webpage
+
+![Webpage](screenshots/webpage.png)
 
 ## Cleanup
 
